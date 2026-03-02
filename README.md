@@ -42,4 +42,4 @@ git clone https://github.com/AlejandroCastro02/semaforo_cruce_peatonal.git
 ## 👨‍💻 Autor
 
 Alejandro Castro  
-Proyecto de práctica de regulación de temperatura para sistema acuapónico usando Arduino.
+Proyecto de práctica de regulación de Semáforo con botón para cruce peatonal usando Arduino.
